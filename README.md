@@ -22,7 +22,4 @@ I am a student at 42 School, where I am improving my skills in software developm
 ### Tools and Others
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%234B8BBE.svg?style=plastic&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Omartou76&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
