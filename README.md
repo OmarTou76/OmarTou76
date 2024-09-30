@@ -1,5 +1,5 @@
 # 💫 About Me:
- Welcome to my GitHub!<br> I'm currently a student at 42 School, where I'm honing my skills in software development and problem-solving. Here, you'll find a collection of projects that showcase my journey in coding, collaboration, and innovation. I'm always excited to learn and tackle new challenges, so feel free to explore my work and connect with me!
+I am a student at 42 School, where I am improving my skills in software development and problem-solving. I also earned a professional diploma in React from OpenClassrooms. Here, you can see a collection of projects that show my journey in coding, teamwork, and creativity. I love to learn and take on new challenges, so feel free to check out my work and reach out to me!
 
 
 ## 🌐 Socials:
