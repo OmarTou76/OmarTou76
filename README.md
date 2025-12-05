@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a student at 42 School, where I am improving my skills in software development and problem-solving. I also earned a professional diploma in React from OpenClassrooms. Here, you can see a collection of projects that show my journey in coding, teamwork, and creativity. I love to learn and take on new challenges, so feel free to check out my work and reach out to me!
+# Hey !
+I am a student at 42 School, I enjoy doing projects, exploring new ideas, and collaborating to bring solutions to life.
 
 
 ## 🌐 Socials:
